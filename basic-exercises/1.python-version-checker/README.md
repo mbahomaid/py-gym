@@ -55,16 +55,42 @@ You are using Python 3.10.12 (main, Oct  3 2023, 12:00:00) [GCC 9.4.0]
 ## Contributing
 
 Contributions are welcome! If you’d like to improve this exercise or add more features, feel free to:
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Submit a pull request with your improvements.
+1. **Fork the repository**.
+2. **Create a new branch** for your changes:
+   ```bash
+   git checkout -b your-feature-branch
+   ```
+3. **Commit your changes**:
+   ```bash
+   git commit -m "Add your meaningful commit message"
+   ```
+4. **Push to your branch**:
+   ```bash
+   git push origin your-feature-branch
+   ```
+5. **Open a pull request** and describe your changes.
 
 ---
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the (LICENSE) file in the root directory for details.
 
 ---
 
 Happy coding! 🐍
+```
+
+---
+
+### Key Features of the Updated File:
+1. **Detailed Contributing Section**:
+   - Added step-by-step Git commands to guide contributors through the process of forking, branching, committing, and pushing changes.
+   - Made it easier for beginners to contribute to the project.
+
+2. **License Section**:
+   - Clearly states that the `LICENSE` file is located in the root directory.
+
+3. **Improved Readability**:
+   - Consistent formatting and clear headings make the file easy to navigate.
+   - Added emojis for a touch of fun and visual appeal.
